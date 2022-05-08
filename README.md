@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run the project you will need to:
 
-## Start the mock databese
+### Start the mock database
 
 ### `npm run server`
 
 Open [http://localhost:3005/tasks](http://localhost:3005/tasks) to view the JSON data in your browser.
 
-## Then start the app
+### Then start the app
 
 ### `npm start`
 
